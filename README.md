@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub](https://github.com/akinbo-emmanuel/qr)
-- Live Site URL: [Vercel](https://qrsol.vercel.app)
+- Live Site URL: [Vercel](https://qrcomp.vercel.app)
 
 
 ## My Process
@@ -32,7 +32,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
-- Mobile-first workflow
 
 ### Useful resources
 
@@ -42,6 +41,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Emmanuel Akinbo](https://emmanuelakinbo1.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- DevFolio - [Emmanuel Akinbo](https://emmanuelakinbo1.netlify.app)
+- Frontend Mentor - [@akinbo-emmanuel](https://www.frontendmentor.io/profile/akinbo-emmanuel)
 - Twitter - [@EmmanuelAkinb13](https://www.twitter.com/EmmanuelAkinb13)
