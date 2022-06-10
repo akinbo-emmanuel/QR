@@ -24,7 +24,7 @@ body{
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
     width: 315px;
-    height: 448px;
+    height: 475px;
     box-shadow: 2px 2px 50px 1px rgba(0, 0, 0, 0.2)
 }
 
@@ -32,17 +32,18 @@ body{
     width: 290px;
     height: 290px;
     border-radius: 10px;
-    margin-top: 7px;
+    margin-top: 3px;
 }
 
-.container h3{
+.container h1{
     color: hsl(218, 44%, 22%);
     font-weight: 700;
+    font-size: 20px;
 }
 
 .container p{
     color: hsl(220, 15%, 55%);
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 400;
     padding-bottom: 15px;
 }
